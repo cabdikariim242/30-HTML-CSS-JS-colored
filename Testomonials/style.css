@@ -1,0 +1,42 @@
+body {
+    margin:0;
+    display:flex;
+    justify-content:center;
+    height: 100vh;
+    align-items: center;
+    font-family:cursive;
+        background: linear-gradient(350deg, #40d301, #fd7d05,#e40a5e);
+
+}
+
+.testomonial-container{
+    width: 500px;
+    height: 200px;
+    background-color:slateblue;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,.3);
+    position: relative;
+    min-width: 400px;
+    margin:5px;
+    padding:70px 20px;
+        background: linear-gradient(100deg,#05e6ee,#ff00dd,#f10a0a, #471dff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent; 
+        
+}
+
+.user-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top:-50px
+
+}
+
+.username{
+    font-size:13px;
+    font-weight:100;
+}
