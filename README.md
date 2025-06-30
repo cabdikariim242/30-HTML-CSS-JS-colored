@@ -22,24 +22,3 @@
 
 12= Random Images-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-colored/random%20images/index.html)
 
-13= Real Time Counter-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-colored/real-time%20character%20counter/index.html)
-
-14= Updated Text-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-colored/updated%20text%20project%202/index.html)
-
-15= Dark Mode Toggle -->(https://cabdikariim242.github.io/30-HTML-CSS-JS-PROJECTS/Dark%20mode%20toggle/index.html)
-
-16= Digital Clock-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-PROJECTS/Digital%20clock/index.html)
-
-17= Double Loading Page-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-PROJECTS/Double%20loading%20page/)
-
-18= Drum Kits-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-PROJECTS/Drum%20Kits/index.html)
-
-19= Profile Statics-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-PROJECTS/Profile%20Statics/index.html)
-
-20= Sticky Nav bar-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-PROJECTS/Sticky%20Nav%20Bar/)
-
-21= BMI Calculater-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-PROJECTS/bmi-calculator/index.html)
-
-22= Heart Emoji Animation-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-PROJECTS/heart%20project%201/index.html
-
-23= Weight Converter-->(https://cabdikariim242.github.io/30-HTML-CSS-JS-PROJECTS/weight-converter/index.html)
